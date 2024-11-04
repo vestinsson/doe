@@ -1,4 +1,5 @@
 import logo from './logo.svg';
+import karl from './karl.jpg';
 import './App.css';
 
 function App() {
@@ -6,6 +7,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
+        <img src={karl} className="App-karl" alt="karl" />
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
